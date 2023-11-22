@@ -26,90 +26,90 @@ We show the experimental result figures here.
 
 HalfCheetah-expert
 
-![](.\log\halfcheetah\expert\adv-q.png)
-![](.\log\halfcheetah\expert\ensemble-std.png)
-![](.\log\halfcheetah\expert\reward.png)
+![](log\halfcheetah\expert\adv-q.png)
+![](log\halfcheetah\expert\ensemble-std.png)
+![](log\halfcheetah\expert\reward.png)
 
 HalfCheetah-random
 
-![](.\log\halfcheetah\random\adv-q.png)
-![](.\log\halfcheetah\random\ensemble-std.png)
-![](.\log\halfcheetah\random\reward.png)
+![](log\halfcheetah\random\adv-q.png)
+![](log\halfcheetah\random\ensemble-std.png)
+![](log\halfcheetah\random\reward.png)
 
 HalfCheetah-medium
 
-![](.\log\halfcheetah\medium\adv-q.png)
-![](.\log\halfcheetah\medium\ensemble-std.png)
-![](.\log\halfcheetah\medium\reward.png)
+![](log\halfcheetah\medium\adv-q.png)
+![](log\halfcheetah\medium\ensemble-std.png)
+![](log\halfcheetah\medium\reward.png)
 
 HalfCheetah-medium-expert
 
-![](.\log\halfcheetah\medium-expert\adv-q.png)
-![](.\log\halfcheetah\medium-expert\ensemble-std.png)
-![](.\log\halfcheetah\medium-expert\reward.png)
+![](log\halfcheetah\medium-expert\adv-q.png)
+![](log\halfcheetah\medium-expert\ensemble-std.png)
+![](log\halfcheetah\medium-expert\reward.png)
 
 HalfCheetah-medium-replay
 
-![](.\log\halfcheetah\mixed\adv-q.png)
-![](.\log\halfcheetah\mixed\ensemble-std.png)
-![](.\log\halfcheetah\mixed\reward.png)
+![](log\halfcheetah\mixed\adv-q.png)
+![](log\halfcheetah\mixed\ensemble-std.png)
+![](log\halfcheetah\mixed\reward.png)
 
 Hopper-expert
 
-![](.\log\hopper\expert\adv-q.png)
-![](.\log\hopper\expert\ensemble-std.png)
-![](.\log\hopper\expert\reward.png)
+![](log\hopper\expert\adv-q.png)
+![](log\hopper\expert\ensemble-std.png)
+![](log\hopper\expert\reward.png)
 
 Hopper-random
 
-![](.\log\hopper\random\adv-q.png)
-![](.\log\hopper\random\ensemble-std.png)
-![](.\log\hopper\random\reward.png)
+![](log\hopper\random\adv-q.png)
+![](log\hopper\random\ensemble-std.png)
+![](log\hopper\random\reward.png)
 
 Hopper-medium
 
-![](.\log\hopper\medium\adv-q.png)
-![](.\log\hopper\medium\ensemble-std.png)
-![](.\log\hopper\medium\reward.png)
+![](log\hopper\medium\adv-q.png)
+![](log\hopper\medium\ensemble-std.png)
+![](log\hopper\medium\reward.png)
 
 Hopper-medium-expert
 
-![](.\log\hopper\medium-expert\adv-q.png)
-![](.\log\hopper\medium-expert\ensemble-std.png)
-![](.\log\hopper\medium-expert\reward.png)
+![](log\hopper\medium-expert\adv-q.png)
+![](log\hopper\medium-expert\ensemble-std.png)
+![](log\hopper\medium-expert\reward.png)
 
 Hopper-medium-replay
 
-![](.\log\hopper\mixed\adv-q.png)
-![](.\log\hopper\mixed\ensemble-std.png)
-![](.\log\hopper\mixed\reward.png)
+![](log\hopper\mixed\adv-q.png)
+![](log\hopper\mixed\ensemble-std.png)
+![](log\hopper\mixed\reward.png)
 
 Walker2d-expert
 
-![](.\log\walker2d\expert\adv-q.png)
-![](.\log\walker2d\expert\ensemble-std.png)
-![](.\log\walker2d\expert\reward.png)
+![](log\walker2d\expert\adv-q.png)
+![](log\walker2d\expert\ensemble-std.png)
+![](log\walker2d\expert\reward.png)
 
 Walker2d-random
 
-![](.\log\walker2d\random\adv-q.png)
-![](.\log\walker2d\random\ensemble-std.png)
-![](.\log\walker2d\random\reward.png)
+![](log\walker2d\random\adv-q.png)
+![](log\walker2d\random\ensemble-std.png)
+![](log\walker2d\random\reward.png)
 
 Walker2d-medium
 
-![](.\log\walker2d\medium\adv-q.png)
-![](.\log\walker2d\medium\ensemble-std.png)
-![](.\log\walker2d\medium\reward.png)
+![](log\walker2d\medium\adv-q.png)
+![](log\walker2d\medium\ensemble-std.png)
+![](log\walker2d\medium\reward.png)
 
 Walker2d-medium-expert
 
-![](.\log\walker2d\medium-expert\adv-q.png)
-![](.\log\walker2d\medium-expert\ensemble-std.png)
-![](.\log\walker2d\medium-expert\reward.png)
+![](log\walker2d\medium-expert\adv-q.png)
+![](log\walker2d\medium-expert\ensemble-std.png)
+![](log\walker2d\medium-expert\reward.png)
 
 Walker2d-medium-replay
 
-![](.\log\walker2d\mixed\adv-q.png)
-![](.\log\walker2d\mixed\ensemble-std.png)
-![](.\log\walker2d\mixed\reward.png)
+![](log\walker2d\mixed\adv-q.png)
+![](log\walker2d\mixed\ensemble-std.png)
+![](log\walker2d\mixed\reward.png)
