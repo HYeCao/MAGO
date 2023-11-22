@@ -50,6 +50,25 @@ We show the comparative experimental results here.
 
 **Table 2** Normalized scores of three expert tasks. All results are averaged over 5 random seeds.
 
+
+|  Environment   | Dataset  |  MAGO   | MAGO-no factor |
+|  ----  | ----  |----  |----------------|
+|  HalfCheetah   | random  |  35.5±2.3   | 30.2±5.8       |
+|  HalfCheetah   | medium  |  73.5±1.0   | 65.9±3.5       |
+|  HalfCheetah   | mixed  |  69.8±1.1   | 53.1±8.0       |
+|  HalfCheetah   |  med-expert  |  90.8±1.5   | 86.2±5.1       |
+|  Hopper   | random  |  28.9±2.4   | 24.5±2.3       |
+|  Hopper   | medium  |  106.8±0.9   | 95.0±4.2       |
+|  Hopper   | mixed  |  103.3±0.3   | 98.6±1.0       |
+|  Hopper   |  med-expert  |  105.1±5.2   | 85±0.8         |
+|  Walker2d   | random  |  20.2±0.1   | 18.2±4.4       |
+|  Walker2d   | medium  |  82.0±0.9   | 80.1±0.7       |
+|  Walker2d   | mixed  |  79.4±1.1   | 75.3±3.5       |
+|  Walker2d   |  med-expert  |  104.2±0.9  | 100.3±2.1      |
+
+**Table 3** Ablation study on the D4RL datasets. ‘±’ represents the standard deviation.
+
+
 We show the experimental result figures here.
 
 
