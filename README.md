@@ -38,6 +38,7 @@ We show the comparative experimental results here.
 |  Walker2d   | medium  |  82.0±0.9   | 89.6±0.7  |  78.8±1.0   | 75.5±2.0  |  11.8±30.8   | 79.7±2.1  |  79.2±17.7 |
 |  Walker2d   | mixed  |  79.4±1.1   | 77.7±14.58  |  41.8±7.9   | 56.0±6.4  | 39.0±9.4  | 25.2±5.5  |  26.7±2.7 |
 |  Walker2d   |  med-expert  |  104.2±0.9  | 110.1±0.3  |  105.2±3.9   | 96.1±0.2  | 44.6±27.9   |  101.1±0.5  | 111.0±1.6 |
+
 **Table 1** Performance comparison on the D4RL datasets. Each score is normalized based on [10], and averaged over 5 random seeds. ‘±’ represents the standard deviation.
 
 
@@ -46,6 +47,7 @@ We show the comparative experimental results here.
 | HalfCheetah  | 95.5±1.7  | 92.4±1.7  | 81.3±21.8 | 8.4±11.8   |
 | Hopper  | 112.0±0.5  | 110.5±0.4  | 62.5±29.0 | 80.4±34.9   |
 | Walker2d  | 108.9±0.3  | 108.3±0.3  | 62.4±3.2 | 62.6±29.9   |
+
 **Table 2** Normalized scores of three expert tasks. All results are averaged over 5 random seeds.
 
 We show the experimental result figures here.
