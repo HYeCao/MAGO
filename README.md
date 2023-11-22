@@ -21,7 +21,7 @@ Detailed configuration can be found in `config.py`.
 #### Logging
 By default, TensorBoard logs are generated in the `log/` directory.
 
-#### Experiments
+## Experiments
 We show the comparative experimental results here.
 
 |  Environment   | Dataset  |  MAGO   | PBRL  |  F-BRC   | COMBO  | MOPO   | TD3+BC  | CQL |
